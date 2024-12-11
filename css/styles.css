@@ -23,3 +23,19 @@ body {
    .nav-list a:hover {
     color: #ffd700;
    }
+   /* Box Model Practice */
+   .content-box {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    background-color: white;
+   }
+   .skill-box {
+    margin: 10px;
+    padding: 15px 25px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+   }
